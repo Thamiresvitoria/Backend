@@ -9,6 +9,10 @@ public class Main {
         for (int i = 1; i <= 5; i++){
             System.out.println("i = " + i);
         }
+        }
+
+    public static int somarNumeros( int a, int b){
+        return a + b;
     }
 }
 
